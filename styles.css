@@ -1,0 +1,18 @@
+.heading {
+    color: darkblue;
+}
+.circular {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+h2 {
+    color: darkblue;
+}
+.thead {
+    text-align: right;
+}
+.details {
+    text-align: left;
+    padding-left: 30px;
+}
